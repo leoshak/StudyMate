@@ -38,9 +38,9 @@
         <item>Notes</item>
         <item>Tasks</item>
     </string-array>
-    <!--Note list avtivity/screen-->
+    <!--Note list activity/screen-->
     <string name="groupTitle">Group</string>
-    <string name="ask_join">Ask to Join</string>
+    <string name="ask_join">Join</string>
 
     <!--card-->
     <string name="quizes_text">Quizes</string>
