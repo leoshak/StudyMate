@@ -40,7 +40,7 @@
     </string-array>
     <!--Note list activity/screen-->
     <string name="groupTitle">Group</string>
-    <string name="ask_join">Join</string>
+    <string name="ask_join">Ask to Join</string>
 
     <!--card-->
     <string name="quizes_text">Quizes</string>
